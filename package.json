@@ -1,0 +1,12 @@
+{
+  "name": "universo-ia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicação educativa sobre inteligência artificial generativa",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
