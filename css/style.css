@@ -325,7 +325,6 @@ h1, h2, h3 {
   letter-spacing: -5px;
   background: linear-gradient(130deg, white, #77dfff, #b78cff);
   color: transparent;
-  -webkit-background-clip: text;
 }
 
 .core small {
